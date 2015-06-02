@@ -1,0 +1,4 @@
+<use   name="GeneratorInterface/YajemInterface"/>
+<library   file="*.cc" name="GeneratorInterfaceYajemInterfacePlugins">
+  <flags   EDM_PLUGIN="1"/>
+</library>
