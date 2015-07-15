@@ -3,7 +3,7 @@
 
 How to set up:
     cd  CMSSW_5_3_20/src/
-    git clone git@github.com:ianhi/MonteCarlo.C //FOR HTTPS use:  https://github.com/ianhi/MonteCarlo.git 
+    git clone git@github.com:ianhi/MonteCarlo.git //FOR HTTPS use:  https://github.com/ianhi/MonteCarlo.git 
     cd MonteCarlo/
     scram b -j(# of cores) // compile
 
